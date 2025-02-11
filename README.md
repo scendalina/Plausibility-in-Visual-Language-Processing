@@ -1,5 +1,5 @@
-# Plausibility-in-Visual-Language-Processing
-An eye-tracking study using young adults (18-35 years old) that examined how readers process meaning across their 'useful field of view' during reading on a screen
+# Predictability and Plausibility-in-Visual-Language-Processing
+An eye-tracking study using young adults (18-35 years old) that examined how readers process meaning (i.e., How common words are in the language, or how plausible their meaning is in a given sentence) across their 'useful field of view' during reading on a screen
 Eye-Tracking & Language Processing Analysis
 Project Overview
 This repository contains data processing and analysis scripts for an eye-tracking study on language comprehension. The project involved statistical modeling of eye movement data to examine how readers process linguistic stimuli in real time.
